@@ -1,2 +1,2 @@
 # amazon
- i am try to male clone amazon.com
+ i am try to make clone amazon.com
